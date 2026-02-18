@@ -6,17 +6,17 @@ It performs speech recognition and text-to-speech without internet connectivity,
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🎤 Offline Hindi Speech Recognition
-- 🔐 Privacy-Focused (No Cloud)
-- ⚡ Lightweight Architecture
-- 🧠 Command-Based Intent Handling
-- 📴 Fully Offline Operation
+-  Offline Hindi Speech Recognition
+-  Privacy-Focused (No Cloud)
+-  Lightweight Architecture
+-  Command-Based Intent Handling
+-  Fully Offline Operation
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Python
 - Whisper / Vosk (STT)
@@ -38,13 +38,13 @@ project/
 
 ---
 
-## 🏆 Developed For
+##  Developed For
 
 ARM Bharat AI SoC Student Challenge
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 - Wake Word Detection
 - Accent Robust Hindi Recognition
